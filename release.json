@@ -1,12 +1,12 @@
 {
   "title": "",
   "description": "",
-  "sticker_id": 6330078390330065970,
+  "sticker_id": 5350519289256355751,
   "filename": "pepegram.apk",
-  "version_name": "2024.4.0",
-  "version_code": 19,
-  "file_size": 73885234,
+  "version_name": "2024.4.1",
+  "version_code": 20,
+  "file_size": 73885160,
   "cannot_skip_last": 15,
-  "release_notes": "• Added some improvements",
+  "release_notes": "• Fixed translations",
   "scheme_version": 1
 }
