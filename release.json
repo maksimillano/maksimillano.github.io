@@ -1,12 +1,12 @@
 {
   "title": "",
   "description": "",
-  "sticker_id": 5418351172345941022,
+  "sticker_id": 5417838945956288060,
   "filename": "pepegram.apk",
-  "version_name": "2025.5.0",
-  "version_code": 34,
-  "file_size": 83309511,
+  "version_name": "2025.6.0",
+  "version_code": 35,
+  "file_size": 85864304,
   "cannot_skip_last": 15,
-  "release_notes": "• Added some improvements",
+  "release_notes": "• Added new text adaptive color formatting",
   "scheme_version": 1
 }
